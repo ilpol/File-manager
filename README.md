@@ -4,4 +4,4 @@
 `npm i`   
 
 Запуск  
-`**`npm run dev
+`npm run dev`

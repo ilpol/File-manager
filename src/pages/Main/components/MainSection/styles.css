@@ -1,0 +1,5 @@
+
+.mainSection__folder {
+  display: flex;
+  flex-direction: column;
+}

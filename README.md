@@ -1,7 +1,7 @@
 # File-manager
 
 Установка  
-###### npm i
+#### npm i
 
 Запуск  
-###### npm run dev
+#### npm run dev
